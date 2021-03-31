@@ -1,0 +1,5 @@
+@media (max-width: 992px) {
+	nav ul.navbar-nav {
+		margin: 0 auto;
+	}
+}
